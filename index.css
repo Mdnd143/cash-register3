@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+    font-size: 120%;
+}
+.change{
+    font-size: 120%;
+}
+body{
+    background-color: rgb(40, 168, 219);
+}
+#bill-amount{
+    background-color:red;
+    border-radius: 1rem;
+   
+}
+#cash-given{
+    
+    align-items: center;
+    background-color: red;
+    border-radius: 1rem;
+  
+}
+#check-button{
+    background-color: red;
+    border-radius: 1rem;
+}
